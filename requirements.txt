@@ -1,0 +1,5 @@
+numpy
+matplotlib
+graphviz
+jupyter
+torch  # only for the PyTorch check in example.ipynb
